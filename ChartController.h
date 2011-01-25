@@ -10,7 +10,8 @@
 
 
 @interface ChartController : NSObject {
-
+	IBOutlet NSToolbarItem *followBoat;
+	IBOutlet ChartView *chartView;
 }
 
 - (IBAction)zoomIn:(id)sender;

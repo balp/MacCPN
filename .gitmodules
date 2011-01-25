@@ -1,0 +1,3 @@
+[submodule "opencpn"]
+	path = opencpn
+	url = git://opencpn.git.sourceforge.net/gitroot/opencpn/opencpn

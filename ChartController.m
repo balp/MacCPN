@@ -14,6 +14,7 @@
 
 - (IBAction)zoomIn:(id)sender
 {
+	// Zoom in the chart
 }
 
 - (IBAction)zoomOut:(id)sender
