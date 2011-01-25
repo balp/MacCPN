@@ -1,0 +1,13 @@
+Navigation software for the mac.
+Ideas and userinterface inspired and partly forked from
+OpenCPN (http://www.opencpn.org) but on code level much
+of the logic code needed so much rewrite that i think a clean
+start is the best way.
+
+TODO:
+
+* Show any chart.
+* Add cmake to gererate Xcode project
+* gps support
+* ais support
+
